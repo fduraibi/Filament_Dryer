@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="./README.md">🇺🇸 English</a> · <b>🇸🇦 العربية</b>
+</p>
 <div dir="rtl" lang="ar">
 
 # مجفف خيوط الطابعة ثلاثية الأبعاد (الإصدار 2)

@@ -1,3 +1,7 @@
+<p align="center">
+  <b>🇺🇸 English</b> · <a href="./README_ar.md">🇸🇦 العربية</a>
+</p>
+
 # 3D Printer Filament Dryer (v2)
 
 🎥 **Build video:** [TikTok](https://www.tiktok.com/@fahad_alduraibi/video/7708110782969498900) · [YouTube Shorts](https://youtube.com/shorts/dSvKblwJmvQ)
